@@ -17,7 +17,7 @@ const Navbar: React.FC<NavbarProps> = ({ sections, activeSection, setActiveSecti
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center space-x-8">
-            <h1 className="text-green-500 text-xl font-bold">DownloadHub</h1>
+            <h1 className="text-green-500 text-xl font-bold">LoquendoAlertCreators</h1>
             <div className="flex space-x-4">
               {sections.map(({ id, name, icon: Icon }) => (
                 <button
