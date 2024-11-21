@@ -40,7 +40,7 @@ const ContentSection: React.FC<{ activeSection: string }> = ({ activeSection }) 
   if (activeSection === 'inicio') {
     return (
       <div className="text-center py-12">
-        <h1 className="text-4xl font-bold mb-6">Bienvenido a DownloadHub</h1>
+        <h1 className="text-4xl font-bold mb-6">Bienvenido a LoquendoAlertCreators</h1>
         <p className="text-gray-400 max-w-2xl mx-auto">
           Tu portal de descargas para recursos digitales. Encuentra programas, plugins, 
           renders y mucho más. Todo lo que necesitas en un solo lugar.
