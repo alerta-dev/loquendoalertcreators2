@@ -46,7 +46,7 @@ const ContentSection: React.FC<{ activeSection: string }> = ({ activeSection }) 
           renders y mucho más. Todo lo que necesitas en un solo lugar.
         </p>
         <div className="grid grid-cols-3 gap-6 mt-12 max-w-4xl mx-auto">
-          {['programas', 'plugins', 'renders'].map((section) => (
+          {['programas', 'plugins', 'renders', 'fondos', 'sonidos', 'materiales'].map((section) => (
             <div key={section} className="bg-zinc-900 p-6 rounded-lg hover:bg-zinc-800 transition-colors">
               <h3 className="text-xl font-semibold mb-2 capitalize">{section}</h3>
               <p className="text-gray-400 text-sm">
