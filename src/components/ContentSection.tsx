@@ -10,7 +10,7 @@ interface DownloadItem {
 
 const mockData: Record<string, DownloadItem[]> = {
   programas: [
-    { id: '1', name: 'Adobe Photoshop 2024', description: 'Editor de imágenes profesional', downloadUrl: '#' },
+    { id: '1', name: 'Adobe Photoshop 2024', description: 'Editor de imágenes profesional[Link](https://discord.com/channels/945232474961743925/1302079978011230240) ', downloadUrl: '#' },
     { id: '2', name: 'Visual Studio Code', description: 'Editor de código potente', downloadUrl: '#' },
     { id: '3', name: 'Blender', description: 'Software de modelado 3D', downloadUrl: '#' },
   ],
