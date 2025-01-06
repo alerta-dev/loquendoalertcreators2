@@ -3,7 +3,7 @@ export const programs = [
   {
     title: 'Adobe Photoshop 2024',
     description: 'Software profesional de edición de imágenes',
-    imageUrl: 'https://images.unsplash.com/photo-1572044162444-ad60f128bdea?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://64.media.tumblr.com/05c19f56554ba8be07260988cde33c1c/4dcd8d6d965346f3-0b/s1280x1920/6d57425a6ec28344808355243ba03a2eda32ad0f.pnj',
     download: 'https://www.youtube.com/watch?v=_6XzJPyAJDI'
   },
   {
